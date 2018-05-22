@@ -14,3 +14,5 @@ script:
  - make -C hiredis/
  - make -C tests/
  - ./tests/test-hgetset
+
+#comment so I can recommit this file and try to trigger a Travis build
